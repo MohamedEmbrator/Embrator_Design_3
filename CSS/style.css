@@ -910,7 +910,7 @@ header nav .form i {
 .quote {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    background-image: url(../images/quote.jpeg);
+    background-image: url(../Images/quote.jpeg);
     background-size: cover;
     position: relative;
     text-align: center;
